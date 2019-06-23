@@ -1,4 +1,4 @@
-### This repository contains a Pytorch(Fastai) IPYthon Notebook trained to identify 110+ different animated shows.
+### This repository contains a Pytorch(Fastai) IPYthon Notebook in which a CNN model is trained to identify 110+ different animated shows.
 If the exact match is not found it tries to return the best match, for example if you show it a picture of girl in pink dress, it will most proably itentify her as Barbie or Disney Princess.<br>
 
 #### To test the model, a web app is included in the server folder.
